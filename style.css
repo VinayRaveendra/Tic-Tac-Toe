@@ -1,14 +1,12 @@
 *{
     padding:0;
-    margin-top:5px;
+    margin-top:2px;
 }
 body{
     background-color: #81d6e3;
     text-align:center;
 }
-main{
-    margin-top:15px;
-}
+
 .container{
     height:70vh;
     display:flex;
