@@ -35,7 +35,7 @@ body{
 #resetbtn{
    
     padding:1rem;
-    font-size: 30px;
+    font-size: 20px;
     background-color: black;
     color:white;
     border-radius: 1rem;
@@ -43,7 +43,7 @@ body{
 }
 #newbtn{
     padding:1rem;
-    font-size: 30px;
+    font-size: 20px;
     background-color: black;
     color:white;
     border-radius: 1rem;
@@ -56,7 +56,7 @@ body{
 }
 .displaycontainer
 {
-    height:100vmin;
+    
     display:flex;
     justify-content: center;
     align-items: center;
